@@ -32,7 +32,7 @@ Local/CI → Terraform → Hetzner Cloud
 - `dev.agentage.io` - Development environment
 
 **Future Extensibility:**
-- `admin.agentage.io` - Admin panel
+- `traefik.agentage.io` - Traefik dashboard
 - `docs.agentage.io` - Documentation site
 - `api.agentage.io` - API endpoints
 
